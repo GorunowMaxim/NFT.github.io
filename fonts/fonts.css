@@ -1,0 +1,36 @@
+@font-face {
+	font-family: Space Mono;
+	font-display: swap;
+	src: url("../fonts/SpaceMono-Regular.ttf") format("trutype");
+	src: url("../fonts/SpaceMono-Regular.woff") format("woff");
+	src: url("../fonts/SpaceMono-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Space Mono;
+	font-display: swap;
+	src: url("../fonts/SpaceMono-Bold.ttf") format("trutype");
+	src: url("../fonts/SpaceMono-Bold.woff") format("woff");
+	src: url("../fonts/SpaceMono-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Work Sans;
+	font-display: swap;
+	src: url("../fonts/WorkSans-Regular.ttf") format("trutype");
+	src: url("../fonts/WorkSans-Regular.woff") format("woff");
+	src: url("../fonts/WorkSans-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Work Sans;
+	font-display: swap;
+	src: url("../fonts/WorkSans-SemiBold.ttf") format("trutype");
+	src: url("../fonts/WorkSans-SemiBold.woff") format("woff");
+	src: url("../fonts/WorkSans-SemiBold.woff2") format("woff2");
+	font-weight: 600;
+	font-style: normal;
+}
